@@ -6,7 +6,7 @@ FEATURES:-
 The app uses a linear layout manager for the recycler view.
 The app uses an array of drawable resources for the image data.
 The app uses a custom adapter class that extends RecyclerView.Adapter.
-The app uses a custom data model class that has the image resource id.
+The app uses a custom data model class that has the image resource ID.
 The app uses findViewById to get the recycler view in the main activity.
 The app uses setHasFixedSize to optimize the recycler view.
 The app uses a for loop to create an array list of data model objects for the adapter.
