@@ -16,7 +16,7 @@
 ### Employs setAdapter to seamlessly bind the adapter to the RecyclerView.
 
 # Getting Started 🏁
-### Clone the Repository:
+### Clone the Repository: https://github.com/Sarthakverse/RecycleView_And_Cardview_demo.git
 
 # Run the App:
 ### Open the project in Android Studio.
